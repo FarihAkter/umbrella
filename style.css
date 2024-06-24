@@ -1,0 +1,53 @@
+.b1
+{
+  margin: 10px;
+  background-color: rgb(125, 179, 229);
+  color: rgb(235, 232, 228);
+  font-weight: bold;
+  font-size: 10px;
+  border: 1px solid rgb(67, 4, 67);
+  
+  cursor:pointer;
+}
+.b2
+{
+margin: 10px;
+  background-color: rgb(125, 179, 229);
+  color: rgb(19, 18, 18);
+  font-weight: 300px;
+  font-size: 10px;
+  border: 1px solid rgb(238, 78, 9);
+  cursor:pointer;
+
+}
+button
+{
+    margin: 5px;
+    padding: 4px;
+}
+button:hover{
+    background-color: rgb(238, 135, 135);
+    color: rgb(239, 191, 191);
+}
+.parent
+{
+   border: 1px solid red;
+   margin: 0px;
+   display: flex;
+   padding: 0px;
+   align-items: center;
+   justify-content: space-between;
+   
+}
+.child-1
+{
+   border: 1px solid rgb(235, 229, 229);
+   
+   padding: 0px 0px 20px 10px;
+   align-items: center;
+   justify-content: space-between;
+   
+}
+h6{
+    color: #8b4848;
+}
